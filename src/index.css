@@ -36,6 +36,10 @@ b{
   width: 34px;
 }
 
+.square.highlighted {
+  background-color: Tomato;
+}
+
 .square:focus {
   outline: none;
 }
